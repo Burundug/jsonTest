@@ -3,19 +3,54 @@
     "products": [
       {
         "id": 1,
-        "title": "Букет с розами, герберами"
+        "title": "Букет с розами, герберами",
+        "img": {
+          "src": "https://dummyimage.com/182x182/fff/aaa"
+        },
+        "bages": {
+          "express": true,
+          "sale": true
+        },
+        "prices": {
+          "price": 5600.38,
+          "discount": 662.76
+        }
       },
       {
         "id": 2,
-        "title": "Букет из 9 белых роз"
+        "title": "Букет из 9 белых роз",
+        "img": {
+          "src": "https://dummyimage.com/182x182/fff/aaa"
+        },
+        "bages": {
+          "express": true
+        },
+        "prices": {
+          "price": 4937.62,
+          "discount": 0
+        }
       },
       {
         "id": 3,
-        "title": "Букет с розами, герберами"
+        "title": "Букет с розами, герберами",
+        "img": {
+          "src": "https://dummyimage.com/182x182/fff/aaa"
+        },
+        "prices": {
+          "price": 4937.62,
+          "discount": 0
+        }
       },
       {
         "id": 4,
-        "title": "Букет из 9 белых роз"
+        "title": "Букет из 9 белых роз",
+        "img": {
+          "src": "https://dummyimage.com/182x182/fff/aaa"
+        },
+        "prices": {
+          "price": 4937.62,
+          "discount": 0
+        }
       }
     ],
     "title": "Популярные букеты"
